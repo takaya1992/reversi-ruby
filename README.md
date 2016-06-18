@@ -1,0 +1,5 @@
+# REVERSI
+
+```
+$ ruby game.rb
+```
